@@ -1,0 +1,8 @@
+@import "variables";
+
+.MuiCheckbox-root{
+    color: $silver-foil-color;
+    &.Mui-checked{
+        color: #2C5B7B;
+    }
+}
